@@ -1,0 +1,25 @@
+/**
+ TODO(you): Write the CSS necessary to complete HW1!
+*/
+body{
+    margin: 0px;
+}
+
+header{
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    background-image: url(header.jpg);
+    background-size: cover;
+    background-position: center; 
+    height: 500px;
+}
+ 
+p{
+    max-width: 780px;
+    font-family: 'Roboto Slab', serif;
+    font-size: 36px;
+    font-weight: normal;
+    color: white;
+
+}
